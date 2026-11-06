@@ -1,0 +1,40 @@
+{
+ "items": [
+  {
+   "key": "story:g32",
+   "type": "story",
+   "label": "KKD 53–80 IDK (Men)",
+   "at": "2026-11-06T04:14:49.970Z",
+   "images": [
+    "cards/2026-11-05/story-g32.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
+  },
+  {
+   "key": "story:g33",
+   "type": "story",
+   "label": "KSD 35–49 KLM (Women)",
+   "at": "2026-11-06T04:14:49.970Z",
+   "images": [
+    "cards/2026-11-04/story-g33.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
+  },
+  {
+   "key": "story:g34",
+   "type": "story",
+   "label": "ALP 63–54 TSR (Women)",
+   "at": "2026-11-06T04:14:49.970Z",
+   "images": [
+    "cards/2026-11-05/story-g34.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
+  }
+ ],
+ "connected": false,
+ "lastRun": "2026-11-06T04:14:49.970Z",
+ "lastError": ""
+}

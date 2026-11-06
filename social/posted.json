@@ -65,9 +65,31 @@
    ],
    "attempts": 1,
    "status": "rendered"
+  },
+  {
+   "key": "story:g38",
+   "type": "story",
+   "label": "KTM 71–78 EKM (Men)",
+   "at": "2026-11-06T19:09:47.663Z",
+   "images": [
+    "cards/2026-11-06/story-g38.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
+  },
+  {
+   "key": "story:g39",
+   "type": "story",
+   "label": "PKD 45–66 KNR (Women)",
+   "at": "2026-11-06T19:09:47.663Z",
+   "images": [
+    "cards/2026-11-06/story-g39.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
   }
  ],
  "connected": false,
- "lastRun": "2026-11-06T12:50:29.515Z",
+ "lastRun": "2026-11-06T19:09:47.663Z",
  "lastError": ""
 }

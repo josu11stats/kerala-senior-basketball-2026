@@ -43,9 +43,31 @@
    ],
    "attempts": 1,
    "status": "rendered"
+  },
+  {
+   "key": "story:g36",
+   "type": "story",
+   "label": "TVM 74–62 PKD (Men)",
+   "at": "2026-11-06T12:50:29.515Z",
+   "images": [
+    "cards/2026-11-06/story-g36.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
+  },
+  {
+   "key": "story:g37",
+   "type": "story",
+   "label": "ALP 67–54 KKD (Women)",
+   "at": "2026-11-06T12:50:29.515Z",
+   "images": [
+    "cards/2026-11-06/story-g37.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
   }
  ],
  "connected": false,
- "lastRun": "2026-11-06T09:47:06.390Z",
+ "lastRun": "2026-11-06T12:50:29.515Z",
  "lastError": ""
 }

@@ -1,0 +1,42 @@
+name: Instagram
+
+# Runs after every publish (data.json changes), every night at 11:45 pm IST in November
+# (the recap, if it was not already posted after the day's last game), and by hand
+# from the Actions tab or the upload page.
+on:
+  push:
+    branches: [main]
+    paths: ['data.json']
+  schedule:
+    - cron: '15 18 * 11 *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'push = new games, recap = day carousel, test = make images only'
+        default: 'recap'
+      date:
+        description: 'Recap date YYYY-MM-DD (empty = today in India)'
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install --no-save --no-audit --no-fund playwright-core@1.63.0
+      - name: Make images and post to Instagram
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: node tools/social.mjs "${{ github.event_name == 'schedule' && 'recap' || github.event.inputs.mode || 'push' }}" "${{ github.event.inputs.date }}"

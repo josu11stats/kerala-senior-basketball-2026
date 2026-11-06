@@ -32,9 +32,20 @@
    ],
    "attempts": 1,
    "status": "rendered"
+  },
+  {
+   "key": "story:g35",
+   "type": "story",
+   "label": "TSR 84–92 PTA (Men)",
+   "at": "2026-11-06T09:47:06.390Z",
+   "images": [
+    "cards/2026-11-06/story-g35.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
   }
  ],
  "connected": false,
- "lastRun": "2026-11-06T04:14:49.970Z",
+ "lastRun": "2026-11-06T09:47:06.390Z",
  "lastError": ""
 }

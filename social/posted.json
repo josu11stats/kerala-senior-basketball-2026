@@ -87,9 +87,20 @@
    ],
    "attempts": 1,
    "status": "rendered"
+  },
+  {
+   "key": "story:g40",
+   "type": "story",
+   "label": "KLM 60–98 KNR (Men)",
+   "at": "2026-11-07T04:06:12.263Z",
+   "images": [
+    "cards/2026-11-06/story-g40.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
   }
  ],
  "connected": false,
- "lastRun": "2026-11-06T19:09:47.663Z",
+ "lastRun": "2026-11-07T04:06:12.263Z",
  "lastError": ""
 }

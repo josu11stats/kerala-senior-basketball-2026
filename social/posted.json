@@ -120,9 +120,20 @@
    ],
    "attempts": 1,
    "status": "rendered"
+  },
+  {
+   "key": "story:g43",
+   "type": "story",
+   "label": "TVM 66–40 KNR (Women)",
+   "at": "2026-11-07T14:36:58.647Z",
+   "images": [
+    "cards/2026-11-07/story-g43.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
   }
  ],
  "connected": false,
- "lastRun": "2026-11-07T13:18:11.811Z",
+ "lastRun": "2026-11-07T14:36:58.647Z",
  "lastError": ""
 }

@@ -109,9 +109,20 @@
    ],
    "attempts": 1,
    "status": "rendered"
+  },
+  {
+   "key": "story:g42",
+   "type": "story",
+   "label": "ALP 87–41 KTM (Women)",
+   "at": "2026-11-07T13:18:11.811Z",
+   "images": [
+    "cards/2026-11-07/story-g42.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
   }
  ],
  "connected": false,
- "lastRun": "2026-11-07T12:42:48.359Z",
+ "lastRun": "2026-11-07T13:18:11.811Z",
  "lastError": ""
 }

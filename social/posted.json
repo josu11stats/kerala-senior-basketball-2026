@@ -98,9 +98,20 @@
    ],
    "attempts": 1,
    "status": "rendered"
+  },
+  {
+   "key": "story:g41",
+   "type": "story",
+   "label": "TVM 56–84 PTA (Men)",
+   "at": "2026-11-07T12:42:48.359Z",
+   "images": [
+    "cards/2026-11-07/story-g41.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
   }
  ],
  "connected": false,
- "lastRun": "2026-11-07T04:06:12.263Z",
+ "lastRun": "2026-11-07T12:42:48.359Z",
  "lastError": ""
 }

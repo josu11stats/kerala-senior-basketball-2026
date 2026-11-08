@@ -181,9 +181,20 @@
    ],
    "attempts": 1,
    "status": "rendered"
+  },
+  {
+   "key": "story:g47",
+   "type": "story",
+   "label": "TVM 80–66 ALP (Women)",
+   "at": "2026-11-08T13:51:41.532Z",
+   "images": [
+    "cards/2026-11-08/story-g47.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
   }
  ],
  "connected": false,
- "lastRun": "2026-11-08T13:47:33.286Z",
+ "lastRun": "2026-11-08T13:51:41.532Z",
  "lastError": ""
 }

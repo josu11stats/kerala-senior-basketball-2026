@@ -192,9 +192,37 @@
    ],
    "attempts": 1,
    "status": "rendered"
+  },
+  {
+   "key": "story:g48",
+   "type": "story",
+   "label": "KNR 76–85 PTA (Men)",
+   "at": "2026-11-08T16:21:14.577Z",
+   "images": [
+    "cards/2026-11-08/story-g48.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
+  },
+  {
+   "key": "recap:2026-11-08",
+   "type": "recap",
+   "label": "Day recap, 2026-11-08",
+   "at": "2026-11-08T16:21:14.577Z",
+   "images": [
+    "cards/2026-11-08/recap-2026-11-08-1.jpg",
+    "cards/2026-11-08/recap-2026-11-08-2.jpg",
+    "cards/2026-11-08/recap-2026-11-08-3.jpg",
+    "cards/2026-11-08/recap-2026-11-08-4.jpg",
+    "cards/2026-11-08/recap-2026-11-08-5.jpg",
+    "cards/2026-11-08/recap-2026-11-08-6.jpg",
+    "cards/2026-11-08/recap-2026-11-08-7.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
   }
  ],
  "connected": false,
- "lastRun": "2026-11-08T13:51:41.532Z",
+ "lastRun": "2026-11-08T16:21:14.577Z",
  "lastError": ""
 }

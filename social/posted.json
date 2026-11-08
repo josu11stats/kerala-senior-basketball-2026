@@ -159,9 +159,31 @@
    ],
    "attempts": 1,
    "status": "rendered"
+  },
+  {
+   "key": "story:g45",
+   "type": "story",
+   "label": "KNR 52–59 KTM (Women)",
+   "at": "2026-11-08T13:47:33.286Z",
+   "images": [
+    "cards/2026-11-08/story-g45.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
+  },
+  {
+   "key": "story:g46",
+   "type": "story",
+   "label": "EKM 88–54 TVM (Men)",
+   "at": "2026-11-08T13:47:33.286Z",
+   "images": [
+    "cards/2026-11-08/story-g46.jpg"
+   ],
+   "attempts": 1,
+   "status": "rendered"
   }
  ],
  "connected": false,
- "lastRun": "2026-11-07T16:18:29.466Z",
+ "lastRun": "2026-11-08T13:47:33.286Z",
  "lastError": ""
 }
